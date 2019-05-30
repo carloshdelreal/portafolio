@@ -1,0 +1,49 @@
+@media screen and (min-width: 450px) {
+    .column.is-one-third, .column.is-one-third-tablet {
+        width: 50%;
+        flex: none;
+
+    }
+    .columns {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .column.is-one-third, .column.is-one-third-tablet {
+        width: 33.33%;
+        flex: none;
+
+    }
+    .columns {
+        display: flex;
+    }
+}
+
+
+@media screen and (min-width: 1088px){
+    .container {
+        max-width: 960px;
+        width: auto;
+    }
+}
+
+.is-pulled-right {
+    float: right;
+  }
+  
+  .card-header-title {
+    display: block; /* since, div, I don't need this right ?*/
+    // background-color: #87CEEB;
+    margin: 0px;
+  }
+
+.post-content .figure{
+    margin: 15px;
+
+}
+
+figure>img{
+    max-width: 75%;
+    margin: auto;
+}
