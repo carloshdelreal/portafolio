@@ -7,8 +7,8 @@ company: Alcaldía Municipal de Toledo N de S.
 date:   2016-06-01 08:00:00 -0500
 categories: Geologia "Remoción en Masa" "Gestión del Riesgo"
 permalink: lacamacha-toledo-ndes
-thumb: "/ict/assets/portfolio/lacamacha/thumblacamacha.png"
-figures: /ict/assets/portfolio/lacamacha
+thumb: assets/portfolio/lacamacha/thumblacamacha.png"
+figures: assets/portfolio/lacamacha
 description: "Geólogo para el diagnóstico del proceso de remoción en masa La Camacha, Toledo"
 lang: es
 ---
