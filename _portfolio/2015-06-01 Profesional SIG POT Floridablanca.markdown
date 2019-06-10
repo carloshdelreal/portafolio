@@ -2,12 +2,12 @@
 layout: portfolio
 title: Geólogo POT-EOT
 author: Carlos Del Real
-position:  Profesional SIG
+position:  Geólogo SIG
 company: CTAS
 date:   2015-05-01 08:00:00 -0500
 categories: SIG GIS ArcGIS POT EOT
-permalink: geologo-sig-ctas
-thumb: "assets/portfolio/ctas/thumbctas.png"
+permalink: geologo-sig-ctas-pot-floridablanca
+thumb: "assets/portfolio/ctas/thumbpotflorida.png"
 figures: /assets/portfolio/ctas
 description: "Consultor para planes de Ordenamiento Territorial"
 lang: es

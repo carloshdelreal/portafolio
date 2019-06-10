@@ -51,4 +51,11 @@ figure > img {
   max-width: 75%;
   margin: auto;
 }
+
+iframe {
+  width: 560px;
+  height: 460px;
+  margin: auto;
+  display: block;
+}
 /*# sourceMappingURL=carlostyle.css.map */
