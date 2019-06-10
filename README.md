@@ -2,7 +2,7 @@
 
 Este es el repositorio de el portafolio de servicios de Carlos Humberto Del Real Estrada, en este se presentan los proyectos en los que se han trabajado durante más de 5 años de experiencia profesional en diferentes campos de estudio como lo son la Geología de Exploración de Hidrocarburaos, la Geología de Campo, Geología Ambiental, aplicación de Sistemas de Información Geográfica para registrar el avance y resultados de proyectos de consultoría ambiental.
 
-[Link del Portafolio](https://carloshdelreal.github.io/ict/)
+[Link del Portafolio](https://carloshdelreal.github.io/portafolio/)
 
 Otro de los principales campos del conocimiento que se han abarcado son los planes de ordenamiento Territorial, apoyando desde la aplicación de flujos de trabajo en Sistemas de Información Geográfica, para el diagnóstico de parámetros urbanisticos que pueden aplicarse para el ordenamiento territorial.
 
