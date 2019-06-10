@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   áreas de Cartografía, Geología y Geotecnia. Usamos y recomendamos de herramientas de última generación como los 
   Sistemas de Información Geográfica, Imágenes de Satelite, Fotografía Aerea con Dron y Fotogrametría
   Análisis Geotecnicos, Geológicos y Geofísicos.  
-baseurl: "ict" # the subpath of your site, e.g. /blog
+baseurl: "/ict" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carloshdelreal
 github_username:  carloshdelreal

@@ -7,8 +7,8 @@ company: Ecopetrol ICP
 date:   2013-12-01 08:00:00 -0500
 categories: SIG GIS ArcGIS
 permalink: geologo-sig-ecopetrol-icp
-thumb: "assets/portfolio/natfrac/natfrac-icp.png"
-figures: /assets/portfolio/natfrac
+thumb: "/ict/assets/portfolio/natfrac/natfrac-icp.png"
+figures: /ict/assets/portfolio/natfrac
 description: Admistrador y editor de el SIG del Proyecto Preneógeno
 lang: es
 ---

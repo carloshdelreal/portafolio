@@ -7,8 +7,8 @@ company: Alcaldía Municipal de Toledo N de S.
 date:   2016-06-01 08:00:00 -0500
 categories: Geologia "Remoción en Masa" "Gestión del Riesgo"
 permalink: lacamacha-toledo-ndes
-thumb: "assets/portfolio/lacamacha/thumblacamacha.png"
-figures: /assets/portfolio/lacamacha
+thumb: "/ict/assets/portfolio/lacamacha/thumblacamacha.png"
+figures: /ict/assets/portfolio/lacamacha
 description: "Geólogo para el diagnóstico del proceso de remoción en masa La Camacha, Toledo"
 lang: es
 ---
@@ -22,7 +22,7 @@ La vereda la camacha se encuentra en el eje de un sinclinal que presenta un cabe
 
 ## Productos
 
-Para este proyecto se realizaron una serie de presentaciones técnicas e informales con la población local y el gobierno Municipal y Departamental. como resultados de las observaciones y el seguimiento se presenta el <a href="{{ site.url }}/assets/portfolio/lacamacha/Informe La Camacha.pdf" target="_blank">Informe Técnico</a> un video tomado desde un helicoptero provisto por La Empresa Colombiana de Petroleos Ecopetrol y algunas imágenes de este impresionante deslizamiento.
+Para este proyecto se realizaron una serie de presentaciones técnicas e informales con la población local y el gobierno Municipal y Departamental. como resultados de las observaciones y el seguimiento se presenta el <a href="{{ site.url }}{{ page.figures }}/Informe La Camacha.pdf" target="_blank">Informe Técnico</a> un video tomado desde un helicoptero provisto por La Empresa Colombiana de Petroleos Ecopetrol y algunas imágenes de este impresionante deslizamiento.
 
 <hr>
 

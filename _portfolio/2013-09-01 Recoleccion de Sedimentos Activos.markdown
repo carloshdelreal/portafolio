@@ -7,8 +7,8 @@ company: Ecopetrol ICP
 date:   2013-09-01 08:00:00 -0500
 categories: Geología "Sedimentos Activos" SIG GIS ArcGIS
 permalink: sedimentos-activos-ecopetrol-icp
-thumb: "assets/portfolio/natfrac/deljoymap2.jpg"
-figures: /assets/portfolio/natfrac
+thumb: "/ict/assets/portfolio/natfrac/deljoymap2.jpg"
+figures: /ict/assets/portfolio/natfrac
 description: "Recolección de muestras de sedimentos activos para la exploración de HC en la Cuenca Sinú-San Jacinto"
 lang: es
 
