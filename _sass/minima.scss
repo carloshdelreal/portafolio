@@ -12,7 +12,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #7ae22a !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -21,10 +21,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    900px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        900px !default;
 $on-desktop:       1200px;
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -50,6 +50,14 @@ $on-desktop:       1200px;
   "minima/layout",
   "minima/syntax-highlighting";
 
+// Bulma Framework
+@import 
+  "bulma/utilities/_all",
+  "bulma/base/_all",
+  "bulma/elements/_all",
+  "bulma/components/_all",
+  "bulma/grid/_all",
+  "bulma/layout/_all";
 
 
 
@@ -82,4 +90,61 @@ $on-desktop:       1200px;
   display: flex;
   flex-direction: wrap;
   justify-content: center;
+}
+
+@media screen and (min-width: 450px) {
+  .column.is-one-third, .column.is-one-third-tablet {
+      width: 50%;
+      flex: none;
+
+  }
+  .columns {
+      display: flex;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .column.is-one-third, .column.is-one-third-tablet {
+      width: 33.33%;
+      flex: none;
+
+  }
+  .columns {
+      display: flex;
+  }
+}
+
+
+@media screen and (min-width: 1088px){
+  .container {
+      max-width: 960px;
+      width: auto;
+  }
+}
+
+.is-pulled-right {
+  float: right;
+}
+
+.card-header-title {
+  display: block; /* since, div, I don't need this right ?*/
+  // background-color: #87CEEB;
+  margin: 0px;
+}
+
+.post-content .figure{
+  margin: 15px;
+
+}
+
+figure>img{
+  max-width: 75%;
+  margin: auto;
+}
+
+iframe{
+  width: 560px;
+  height: 460px;
+  margin: auto;
+  display: block;
 }
