@@ -47,13 +47,15 @@
   }
 
   @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
+    // position: absolute;
+    // top: 9px;
+    line-height: $base-line-height * $base-font-size;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    margin: 5px;
 
     label[for="nav-trigger"] {
       display: block;
@@ -84,12 +86,12 @@
     }
 
     input:checked ~ .trigger {
-      display: block;
+      display: inline-block;
       padding-bottom: 5px;
     }
 
     .page-link {
-      display: block;
+      display: inline-block;
       padding: 5px 10px;
 
       &:not(:last-child) {

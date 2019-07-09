@@ -60,9 +60,17 @@ $on-desktop:       1200px;
   "bulma/layout/_all";
 
 
+/////////////////////////////////////
+// HEADER ////////////////////////////
+//////////////////////////////////////
+body{
+  min-width: 350px;
+}
 
-#ictlogo {
-  max-height: 55px;
+#profile-pic{
+  max-height: 75px;
+  border-radius: 50%;
+  
 }
 
 .pull-left {
@@ -72,6 +80,29 @@ $on-desktop:       1200px;
 .is-pulled-right {
   float: right;
 }
+
+.header-content{
+  text-align: center;
+  h1{
+    overflow: auto;
+  }
+  .site-title{
+    float: none;
+  }
+}
+.site-header{
+  position: sticky;
+  top: -160px;
+  background: white;
+}
+
+/////////////////////////////////////
+// HEADER ////////////////////////////
+//////////////////////////////////////
+
+/////////////////////////////////////
+// CARDS ////////////////////////////
+//////////////////////////////////////
 
 .card-header{
   height: 65px;
@@ -131,14 +162,6 @@ $on-desktop:       1200px;
   display: flex;
   flex-direction: wrap;
   justify-content: center;
-}
-
-.is-pulled-right {
-  float: right;
-}
-
-.card-header-title {
-  margin: 0px;
 }
 
 .post-content .figure{
