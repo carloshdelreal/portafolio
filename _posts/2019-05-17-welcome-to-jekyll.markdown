@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mi primer post"
 date:   2019-05-17 08:27:30 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+En este portafolios de servicios me dispongo a presentar los trabajos que he realizao a lo largo de mi vida profesional. 
 
-Jekyll also offers powerful support for code snippets:
+Soy un Desarrollador Full Stack y me encuentro enrolado en [Microverse](www.microverse.org) una escuela Online para desarrolladores que utiliza la metodología pair programming (Programación en Grupo) para abordar un amplio curriculo que contiene HTML, CSS, Ruby, Ruby on Rails, Javascript, Redux etc.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Para la fecha que escribo este post he terminado el primer mes del programa y me encuentro muy satisfecho, he logrado dominar por completo HTML y CSS, para desarrollar cualquier tipo de página web, utilizar cualquier Framework o incluso crear y Utilizar mi propio Framework.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
