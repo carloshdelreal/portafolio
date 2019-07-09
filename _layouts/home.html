@@ -47,16 +47,17 @@ layout: default
                 <p class="card-header-title">
                   <span>{{ work.position | escape }}</span>
                   
-                  <span class="is-pulled-right">
-                    <span class="post-meta">{{ work.date | date: date_format }}</span>
-                  </span>
+                  
                 </p>
               </header>
               
               <div class="card-content">
+                
+                <span class="post-meta">{{ work.date | date: date_format }}</span>
+                
                 <figure class="image">
                   {%- if work.thumb -%}
-                  <a href="{{ work.url | relative_url }}" class="card-footer-item">
+                  <a href="{{ work.url | relative_url }}">
                     <img src="{{ work.thumb }}" alt="work thumb">
                   </a>
                   {%- else -%}
