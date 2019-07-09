@@ -13,18 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ingeniería Ciencia y Tecnología SAS
+title: Carlos Del Real, Services, Portfolio, Posts and Learning
 email: carloshdelreal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Resolvemos problemas en las
-  áreas de Cartografía, Geología y Geotecnia. Usamos y recomendamos de herramientas de última generación como los 
-  Sistemas de Información Geográfica, Imágenes de Satelite, Fotografía Aerea con Dron y Fotogrametría
-  Análisis Geotecnicos, Geológicos y Geofísicos.  
-baseurl: "/portafolio" # the subpath of your site, e.g. /blog
+  I am a FullStack Web Developer | Python | Ruby | PHP | JavaScript | HTML & CSS |
+  
+  I have a Background and experience in the fields of Geology, Geotechnical Engineering, Seismology, Cartography
+  Geographic Information Sciences & Systems, and Disaster Risk Reduction.
+
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carloshdelreal
 github_username:  carloshdelreal
 facebook_username: carloshdelreal
+linkedin_username: carloshdelreal
 
 # Build settings
 markdown: kramdown
@@ -41,6 +43,8 @@ defaults:
 
 collections:
   portfolio:
+    output: true
+  web-development:
     output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

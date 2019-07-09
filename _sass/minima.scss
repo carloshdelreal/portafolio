@@ -67,6 +67,10 @@ body{
   min-width: 350px;
 }
 
+header{
+  z-index: 10;
+}
+
 #profile-pic{
   max-height: 75px;
   border-radius: 50%;
@@ -154,6 +158,9 @@ body{
     align-items: center;
   }
 }
+/////////////////////////////////////
+// CARDS ////////////////////////////
+//////////////////////////////////////
 
 .svg-icon{
   padding: 0;
@@ -179,6 +186,13 @@ iframe{
   height: 460px;
   margin: auto;
   display: block;
+}
+
+footer{
+  position: sticky;
+  bottom: -228px;
+  background: white;
+  z-index: 10;
 }
 
 @media screen and (min-width: 450px) {

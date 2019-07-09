@@ -2,7 +2,15 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
+    <div class="footer-col">
+      {%- if site.email -%}
+      <ul>
+        <li>Contact: </li>
+        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      </ul>
+      {%- endif -%}
+      {%- include social.html -%}
+    </div>
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper flex-container">
@@ -15,19 +23,15 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+            
         </ul>
       </div>
 
-      <div class="footer-col">
-        {%- include social.html -%}
-      </div>
+      
 
     </div>
     <div class="footer-col-wrapper flex-container">
-      <div class="">  
+      <div>  
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
