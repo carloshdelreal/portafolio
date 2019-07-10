@@ -343,7 +343,6 @@ table td {
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
-  margin-left: -15px;
 }
 
 .footer-col {
@@ -392,6 +391,11 @@ table td {
   .footer-col {
     float: none;
     width: calc(100% - (30px / 2));
+    font-size: 12px;
+  }
+  .footer-col li {
+    margin-right: 0;
+    margin-left: 0;
   }
 }
 
@@ -12386,12 +12390,13 @@ iframe {
   display: block;
 }
 
-footer {
+.site-footer {
   position: -webkit-sticky;
   position: sticky;
-  bottom: -228px;
+  bottom: -405px;
   background: white;
   z-index: 10;
+  height: 450px;
 }
 
 @media screen and (min-width: 450px) {

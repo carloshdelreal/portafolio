@@ -188,11 +188,12 @@ iframe{
   display: block;
 }
 
-footer{
+.site-footer{
   position: sticky;
-  bottom: -228px;
+  bottom: -405px;
   background: white;
   z-index: 10;
+  height: 450px;
 }
 
 @media screen and (min-width: 450px) {

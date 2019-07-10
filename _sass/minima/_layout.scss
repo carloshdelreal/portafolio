@@ -126,7 +126,6 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
 
@@ -179,6 +178,11 @@
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
+    font-size: 12px;
+    li{
+      margin-right: 0;
+      margin-left: 0;
+    }
   }
 }
 
