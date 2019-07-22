@@ -91,7 +91,7 @@ Toda la base de datos de este proyecto es propiedad intelectual de Ecopetrol ICP
 
 <hr>
 
-## Gelería
+## Galería
 
 <figure class="figure">
     <img src="{{ page.figures }}/sinu-sj.png">

@@ -12348,13 +12348,8 @@ header {
 }
 
 .card-content figcaption {
-  height: 63px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  height: 93px;
+  margin: 8px;
 }
 
 .svg-icon {
@@ -12374,13 +12369,8 @@ header {
           justify-content: center;
 }
 
-.post-content .figure {
-  margin: 15px;
-}
-
 figure > img {
-  max-width: 75%;
-  margin: auto;
+  max-width: 100%;
 }
 
 iframe {
@@ -12399,6 +12389,23 @@ iframe {
   height: 450px;
 }
 
+main h1 {
+  margin-bottom: 5px;
+}
+
+.text_elipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 16px;
+  /* fallback */
+  max-height: 48px;
+  /* fallback */
+  -webkit-line-clamp: 3;
+  /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
 @media screen and (min-width: 450px) {
   .column.is-one-third, .column.is-one-third-tablet {
     width: 50%;
@@ -12414,6 +12421,13 @@ iframe {
 }
 
 @media screen and (min-width: 600px) {
+  figure > img {
+    max-width: 75%;
+    margin: auto;
+  }
+  .post-content .figure {
+    margin: 15px;
+  }
   .column.is-one-third, .column.is-one-third-tablet {
     width: 33.33%;
     -webkit-box-flex: 0;
