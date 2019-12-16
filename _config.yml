@@ -17,14 +17,14 @@ title: Carlos Del Real, Services, Portfolio, Posts and Learning
 email: carloshdelreal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a FullStack Web Developer | Python | Ruby | PHP | JavaScript | HTML & CSS |
-  
+
   I have a Background and experience in the fields of Geology, Geotechnical Engineering, Seismology, Cartography
   Geographic Information Sciences & Systems, and Disaster Risk Reduction.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "carloshdelreal.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carloshdelreal
-github_username:  carloshdelreal
+github_username: carloshdelreal
 facebook_username: carloshdelreal
 linkedin_username: carloshdelreal
 
@@ -40,6 +40,16 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+  - scope:
+      path: es
+    values:
+      lang: es
+  
+  - scope:
+      path: en
+    values:
+      lang: en
 
 collections:
   portfolio:

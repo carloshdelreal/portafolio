@@ -1,0 +1,22 @@
+<div class="languages">
+  <div>
+    <ul>
+      {% if page.lang == 'es' %}
+      <li>
+        <a href="/en/">
+          <img src="{{ site.baseurl}}/assets/images/english.jpg" alt="english-language" />
+          EN
+        </a>
+      </li>
+      {% else %}
+
+      <li>
+        <a href="/es/">
+          <img src="{{ site.baseurl}}/assets/images/spanish.jpg" alt="spanish-language" />
+          ES
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

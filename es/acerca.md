@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Nosotros
-permalink: /nosotros/
+title: Éste Sitio
+lang: es
 ---
 
-Somos Ingeniería Ciencia y Tecnología, una empresa dedicada a la generación de conocimiento científico y técnico de alta calidad y practicidad para la toma de desiciones
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

@@ -17,6 +17,7 @@ $brand-color:      #7ae22a !default;
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
+$blue-color: #3273dc;
 
 $table-text-align: left !default;
 
@@ -99,6 +100,23 @@ header{
   top: -160px;
   background: white;
 }
+.wrapper{
+  position: relative;
+}
+.languages{
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  img{
+    width: 20px;
+    margin-bottom: 2px;
+  }
+  a{
+    text-decoration: none;
+    color: $blue-color;
+  }
+}
+
 
 /////////////////////////////////////
 // HEADER ////////////////////////////
@@ -238,4 +256,26 @@ main h1{
       max-width: 960px;
       width: auto;
   }
+}
+
+/////////////////////////////////////
+// CARDS ////////////////////////////
+//////////////////////////////////////
+
+/////////////////////////////////////
+// WELCOME ////////////////////////////
+//////////////////////////////////////
+
+.welcome{
+  padding: 30px;
+  li{
+    margin: 20px;
+  }
+}
+
+.page-content{
+  p {
+    margin-bottom: 15px;
+  }
+
 }

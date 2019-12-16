@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+{%- include head.html -%}
+
+<body>
+
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+      <div class="header-content">
+        <div>
+          <img src="{{ site.baseurl}}/assets/images/carlos-profile.jpg" id="profile-pic" alt="carlos profile pic" />
+        </div>
+        <h1>
+          <a class="site-title" rel="author" href="">
+            Carlos Del Real
+          </a>
+        </h1>
+  
+      </div>
+    </div>
+  </header>
+
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+
+</body>
+
+</html>
