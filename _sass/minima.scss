@@ -1,32 +1,35 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
+@import url('https://fonts.googleapis.com/css?family=Bad+Script&display=swap');
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
+// Define defaults for each variable.
+$font-fancy: 'Bad Script', cursive;
+$base-font-family: "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol" !default;
+$base-font-size: 16px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit: 30px !default;
 
-$text-color:       #111 !default;
+$text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #7ae22a !default;
+$brand-color: #7ae22a !default;
 
-$grey-color:       #828282 !default;
+$grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
 $blue-color: #3273dc;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    900px !default;
+$content-width: 900px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        900px !default;
-$on-desktop:       1200px;
+$on-palm: 600px !default;
+$on-laptop: 900px !default;
+$on-desktop: 1200px;
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
@@ -44,38 +47,28 @@ $on-desktop:       1200px;
   font-size: $base-font-size * $ratio;
 }
 
-
 // Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting";
+@import "minima/base", "minima/layout", "minima/syntax-highlighting";
 
 // Bulma Framework
-@import 
-  "bulma/utilities/_all",
-  "bulma/base/_all",
-  "bulma/elements/_all",
-  "bulma/components/_all",
-  "bulma/grid/_all",
-  "bulma/layout/_all";
-
+@import "bulma/utilities/_all", "bulma/base/_all", "bulma/elements/_all",
+  "bulma/components/_all", "bulma/grid/_all", "bulma/layout/_all";
 
 /////////////////////////////////////
 // HEADER ////////////////////////////
 //////////////////////////////////////
-body{
+body {
   min-width: 350px;
+  font-family: $base-font-family;
 }
 
-header{
+header {
   z-index: 10;
 }
 
-#profile-pic{
+#profile-pic {
   max-height: 75px;
   border-radius: 50%;
-  
 }
 
 .pull-left {
@@ -86,37 +79,36 @@ header{
   float: right;
 }
 
-.header-content{
+.header-content {
   text-align: center;
-  h1{
+  h1 {
     overflow: auto;
   }
-  .site-title{
+  .site-title {
     float: none;
   }
 }
-.site-header{
+.site-header {
   position: sticky;
-  top: -160px;
+  top: -86px;
   background: white;
 }
-.wrapper{
+.wrapper {
   position: relative;
 }
-.languages{
+.languages {
   position: absolute;
   top: 12px;
   right: 12px;
-  img{
+  img {
     width: 20px;
     margin-bottom: 2px;
   }
-  a{
+  a {
     text-decoration: none;
     color: $blue-color;
   }
 }
-
 
 /////////////////////////////////////
 // HEADER ////////////////////////////
@@ -126,7 +118,7 @@ header{
 // CARDS ////////////////////////////
 //////////////////////////////////////
 
-.card-header{
+.card-header {
   height: 65px;
   overflow: hidden;
 }
@@ -135,17 +127,17 @@ header{
   margin: 0px;
 }
 
-.card-footer-item{
+.card-footer-item {
   margin: 0;
   font-size: 0.8em;
 }
-.card-footer a:first-of-type{
+.card-footer a:first-of-type {
   flex-basis: 65%;
 }
-.card-content{
+.card-content {
   position: relative;
   padding: 0;
-  a{
+  a {
     padding: 0;
     border: none;
     display: block;
@@ -153,24 +145,24 @@ header{
     position: relative;
     overflow: hidden;
   }
-  img{
+  img {
     position: absolute;
     top: 50%;
     transform: translate(0%, -50%);
   }
-  span{
+  span {
     position: absolute;
     top: 0;
     right: 0;
     z-index: 3;
-    background-color:rgba(250,250,250,0.6);
-    border: 1px solid rgba(250,250,250,0.6);
+    background-color: rgba(250, 250, 250, 0.6);
+    border: 1px solid rgba(250, 250, 250, 0.6);
     padding: 2px;
   }
-  .figure{
+  .figure {
     z-index: 1;
   }
-  figcaption{
+  figcaption {
     height: 93px;
     margin: 8px;
   }
@@ -179,7 +171,7 @@ header{
 // CARDS ////////////////////////////
 //////////////////////////////////////
 
-.svg-icon{
+.svg-icon {
   padding: 0;
 }
 .flex-container {
@@ -188,26 +180,25 @@ header{
   justify-content: center;
 }
 
-figure>img{
+figure > img {
   max-width: 100%;
-  
 }
 
-iframe{
+iframe {
   width: 560px;
   height: 460px;
   margin: auto;
   display: block;
 }
 
-.site-footer{
+.site-footer {
   position: sticky;
   bottom: -405px;
   background: white;
   z-index: 10;
   height: 450px;
 }
-main h1{
+main h1 {
   margin-bottom: 5px;
 }
 
@@ -215,46 +206,45 @@ main h1{
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  line-height: 16px;     /* fallback */
-  max-height: 48px;      /* fallback */
+  line-height: 16px; /* fallback */
+  max-height: 48px; /* fallback */
   -webkit-line-clamp: 3; /* number of lines to show */
   -webkit-box-orient: vertical;
 }
 
 @media screen and (min-width: 450px) {
-  .column.is-one-third, .column.is-one-third-tablet {
-      width: 50%;
-      flex: none;
-
+  .column.is-one-third,
+  .column.is-one-third-tablet {
+    width: 50%;
+    flex: none;
   }
   .columns {
-      display: flex;
+    display: flex;
   }
 }
 
 @media screen and (min-width: 600px) {
-  figure>img{
+  figure > img {
     max-width: 75%;
     margin: auto;
   }
-  .post-content .figure{
+  .post-content .figure {
     margin: 15px;
   }
-  .column.is-one-third, .column.is-one-third-tablet {
-      width: 33.33%;
-      flex: none;
-
+  .column.is-one-third,
+  .column.is-one-third-tablet {
+    width: 33.33%;
+    flex: none;
   }
   .columns {
-      display: flex;
+    display: flex;
   }
 }
 
-
-@media screen and (min-width: 1088px){
+@media screen and (min-width: 1088px) {
   .container {
-      max-width: 960px;
-      width: auto;
+    max-width: 960px;
+    width: auto;
   }
 }
 
@@ -266,16 +256,37 @@ main h1{
 // WELCOME ////////////////////////////
 //////////////////////////////////////
 
-.welcome{
+.welcome {
+  text-align: center;
   padding: 30px;
-  li{
+  li {
     margin: 20px;
+  }
+  img {
+    width: 20px;
+    margin-bottom: 2px;
   }
 }
 
-.page-content{
+.page-content {
   p {
     margin-bottom: 15px;
   }
+}
 
+header{
+  h1{
+    font-size: x-large;
+    font-family: $font-fancy;
+    font-weight: 800;
+  }
+}
+
+.wrapper{
+  h1{
+    font-size: xx-large;
+  }
+  h2{
+    font-size: x-large;
+  }
 }

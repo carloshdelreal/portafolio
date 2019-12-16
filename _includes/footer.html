@@ -12,19 +12,13 @@
       {%- endif -%}
       {%- include social.html -%}
     </div>
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper flex-container">
       <div class="footer-col ">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            
+            {{ site.data.translations.headerTitle[page.lang] }}
+          </li>
         </ul>
       </div>
 
@@ -33,7 +27,7 @@
     </div>
     <div class="footer-col-wrapper flex-container">
       <div>  
-        <p>{{- site.description | escape -}}</p>
+        <p>{{- site.data.translations.description[page.lang] -}}</p>
       </div>
     </div>
   </div>

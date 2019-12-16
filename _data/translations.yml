@@ -1,3 +1,12 @@
 headerTitle:
   en: "Porfolio, Posts, Learning and More!"
   es: "Portafolio, Posts, Aprendizaje Más"
+portfolio:
+  en: "Portfolio"
+  es: "Portafolio"
+
+description:
+  en: "I am a FullStack Web Developer | Python | Ruby | PHP | JavaScript | HTML & CSS |
+  I have a Background and experience in the fields of Geology, Geotechnical Engineering, Seismology, Cartography
+  Geographic Information Sciences & Systems, and Disaster Risk Reduction."
+  es: "Soy un desarrollador full stack"

@@ -4,8 +4,10 @@
 
 layout: home
 lang: en
+title: Home
+nav-order: 1
 ---
 
-# Hi
+## Hi
 
 I'm Carlos Del Real, a full stack web developer with a very diverse background and experience. I love building and learning cool and useful things from websites to electronic devices, check some of my projects.

@@ -10,13 +10,12 @@ layout: default
 
   {{ content }}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   
 
-<hr>
+  <hr>
   {% assign portfolio=site.portfolio | where:"lang", page.lang | sort: 'lang' %}
   {%- if portfolio.size > 0 -%}
-    <h2 class="post-list-heading">Portafolio</h2>
+    <h2 class="post-list-heading">{{ site.data.translations.portfolio[page.lang]}}</h2>
     <div>
       <div class="container">
         <div class="columns is-multiline">

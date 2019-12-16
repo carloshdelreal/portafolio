@@ -1,6 +1,8 @@
 en:
   label: English
   icon: 🇺🇸
+  image: assets/images/english.jpg
 es:
   label: Español
   icon: 🇪🇸
+  image: assets/images/spanish.jpg
