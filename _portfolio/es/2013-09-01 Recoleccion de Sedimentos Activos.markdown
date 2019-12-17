@@ -2,9 +2,9 @@
 layout: portfolio
 title: Recolección de Sedimentos Activos en la Cuenca Sinú-San Jacinto
 author: Carlos Del Real
-position:  "Sedimentos Activos para Exploración HC"
+position: "Sedimentos Activos para Exploración HC"
 company: Ecopetrol ICP
-date:   2013-09-01 08:00:00 -0500
+date: 2013-09-01 08:00:00 -0500
 categories: Geología "Sedimentos Activos" SIG GIS ArcGIS
 permalink: sedimentos-activos-ecopetrol-icp
 thumb: assets/portfolio/natfrac/deljoymap2.jpg
@@ -17,7 +17,7 @@ lang: es
 
 Se realizó la recolección de muestras para análisis geoquimicos de sedimentos activos, en los que se busca caracterizar las litologias dominantes y sus ambientes de formación. esta es una actividad propia de un proceso de exploración de Hidrocarburos en la zona del Cinturon plegado del la Cuenca Sinú-San Jacinto.
 
-Para esta campaña de recolección se hicieron 20 dias de campo en zona rural de los municipios de Sincelejo, El Carmen, Macayepo, El Salado y San Jacinto. estas muestras se tomaron con el proposito de la elaboración de ensayos de  Sedimentología, Bioestratigrafía, Termocronología, Petrografía, Dataciones radiométricas por diferentes sistemas de datación U-Th-Pb U-Pb K-Ar Ar-Ar entre otros. por esto fue necesaria la documentación apropiada y meticulosa de los procesos de recolección de las muestras.
+Para esta campaña de recolección se hicieron 20 dias de campo en zona rural de los municipios de Sincelejo, El Carmen, Macayepo, El Salado y San Jacinto. estas muestras se tomaron con el proposito de la elaboración de ensayos de Sedimentología, Bioestratigrafía, Termocronología, Petrografía, Dataciones radiométricas por diferentes sistemas de datación U-Th-Pb U-Pb K-Ar Ar-Ar entre otros. por esto fue necesaria la documentación apropiada y meticulosa de los procesos de recolección de las muestras.
 
 el objetivo principal de esta campaña de exploración era entender el ambiente sedimentario en el que se formaron las unidades del cretácico, paleoceno y eoceno. las unidades objeto de investicgación fueron principalmente, aunque no exclusivamente las formaciones Cansona, San Cayetano, Maco, Chengue y San Jacinto.
 
