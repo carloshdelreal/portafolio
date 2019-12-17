@@ -1,10 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-lang: en
+nav-title: Home
 title: Home
+lang: en
 nav-order: 1
 ---
 

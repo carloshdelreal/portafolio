@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-lang: en
+nav-title: Projects
 title: Projects
+lang: en
 nav-order: 2
 ---

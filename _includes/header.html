@@ -34,7 +34,7 @@
         {%- for path in default_paths -%} 
           {%- if path.title -%}
             <a class="page-link" href="{{ path.url | relative_url }}">
-              {{ path.title | escape }}
+              {{ path.nav-title }}
             </a>
           {%- endif -%}
         {%- endfor -%}

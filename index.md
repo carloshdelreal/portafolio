@@ -14,7 +14,7 @@ title: Welcome // Bienvenido
     {% assign language = lang[1] %}
     <li>
       <a href="{{site.baseurl}}{{lang[0]}}">
-        {{language.icon}} {{ language.label }}
+        {{ language.label }}
         <img src="{{ language.image }}" alt="language image">  
       </a>
     </li>
