@@ -1,25 +1,21 @@
 ---
 layout: portfolio
-title: Recolección de Sedimentos Activos en la Cuenca Sinú-San Jacinto
-author: Carlos Del Real
-position: "Sedimentos Activos para Exploración HC"
-company: Ecopetrol ICP
-date: 2013-09-01 08:00:00 -0500
-categories: Geología "Sedimentos Activos" SIG GIS ArcGIS
-permalink: sedimentos-activos-ecopetrol-icp
-thumb: assets/portfolio/natfrac/deljoymap2.jpg
-figures: assets/portfolio/natfrac
-description: "Recolección de muestras de sedimentos activos para la exploración de HC en la Cuenca Sinú-San Jacinto"
+title: Battleship Game
+author: Carlos Del Real & António Fernandez
+position: Main Developer of The Battleship Game
+company: Microverse
+date: 2019-11-10 08:00:00 -0500
+categories: JavaScript HTML CSS Webpack Node Jest
+permalink: battleship-game
+thumb: assets/portfolio/microverse/battleship.png
+figures: assets/portfolio/microverse
+description: "The most addicting and funniest Battleship Game Ever!"
 lang: en
 ---
 
-## Generalidades
+## Generalities
 
-Se realizó la recolección de muestras para análisis geoquimicos de sedimentos activos, en los que se busca caracterizar las litologias dominantes y sus ambientes de formación. esta es una actividad propia de un proceso de exploración de Hidrocarburos en la zona del Cinturon plegado del la Cuenca Sinú-San Jacinto.
-
-Para esta campaña de recolección se hicieron 20 dias de campo en zona rural de los municipios de Sincelejo, El Carmen, Macayepo, El Salado y San Jacinto. estas muestras se tomaron con el proposito de la elaboración de ensayos de Sedimentología, Bioestratigrafía, Termocronología, Petrografía, Dataciones radiométricas por diferentes sistemas de datación U-Th-Pb U-Pb K-Ar Ar-Ar entre otros. por esto fue necesaria la documentación apropiada y meticulosa de los procesos de recolección de las muestras.
-
-el objetivo principal de esta campaña de exploración era entender el ambiente sedimentario en el que se formaron las unidades del cretácico, paleoceno y eoceno. las unidades objeto de investicgación fueron principalmente, aunque no exclusivamente las formaciones Cansona, San Cayetano, Maco, Chengue y San Jacinto.
+Battleship is an implementation of the Battleship Game coded in JavaScript. It was created completely form scratch
 
 ## Productos
 
