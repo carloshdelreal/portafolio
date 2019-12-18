@@ -7,7 +7,7 @@ company: "Gobernación N de S"
 date:   2016-09-01 08:00:00 -0500
 categories: Geologia "Remoción en Masa" "Gestión del Riesgo" CDGRD "Avenida Torrencial"
 permalink: geologo-conocimiento-ndes
-thumb: assets/portfolio/cdgrd/thumbcdgrd.png"
+thumb: assets/portfolio/cdgrd/thumbcdgrd.jpg"
 figures: assets/portfolio/cdgrd
 description: "Geólogo para el conocimiento del Riesgo, Norte de Santander"
 lang: es
