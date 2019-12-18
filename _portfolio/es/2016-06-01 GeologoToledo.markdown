@@ -7,7 +7,7 @@ company: Alcaldía Municipal de Toledo N de S.
 date:   2016-06-01 08:00:00 -0500
 categories: Geologia "Remoción en Masa" "Gestión del Riesgo"
 permalink: lacamacha-toledo-ndes
-thumb: assets/portfolio/lacamacha/thumblacamacha.png"
+thumb: assets/portfolio/lacamacha/thumblacamacha.jpg"
 figures: assets/portfolio/lacamacha
 description: "Geólogo para el diagnóstico del proceso de remoción en masa La Camacha, Toledo"
 lang: es
@@ -36,24 +36,24 @@ Video del deslizamiento tomado el 13 de Julio de 2016
 
 
 <figure class="figure">
-    <img src="{{ page.figures }}/figura1.png">
+    <img src="{{ page.figures }}/figura1.jpg">
 </figure>
 Interpretación inicial del deslizamiento, se indican tres coronas principales de deslizamiento con deslizamientos más pequeños en cada bloque
 
 
 <figure class="figure">
-    <img src="{{ page.figures }}/figura2.png">
+    <img src="{{ page.figures }}/figura2.jpg">
 </figure>
 Coronas de deslizamiento en desarrollo durante los primeros días son caracteristicas de un deslizamiento rotacional.
 
 
 <figure class="figure">
-    <img src="{{ page.figures }}/figura3.png">
+    <img src="{{ page.figures }}/figura3.jpg">
 </figure>
 este fenómeno destruyó numerosas casas y fincas en el sector.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/figura4.png">
+    <img src="{{ page.figures }}/figura4.jpg">
 </figure>
 <figure class="figure">
     <img src="{{ page.figures }}/pano-deslizamiento.jpg">
@@ -62,7 +62,7 @@ este fenómeno destruyó numerosas casas y fincas en el sector.
     <img src="{{ page.figures }}/pano-deslizamiento2.jpg">
 </figure>
 <figure class="figure">
-    <img src="{{ page.figures }}/figura7.png">
+    <img src="{{ page.figures }}/figura7.jpg">
 </figure>
 
-<a href="{{ site.url }}/assets/portfolio/lacamacha/Informe La Camacha.pdf" target="_blank">Informe Técnico</a>
+<embed src="{{ site.url }}/assets/portfolio/lacamacha/Informe La Camacha.pdf" type="application/pdf" width="100%" height="2600px" />
