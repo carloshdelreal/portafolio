@@ -4,7 +4,7 @@ title: Battleship Game
 author: Carlos Del Real & António Fernandez
 position: Main Developer of The Battleship Game
 company: Microverse
-date: 2019-11-10 08:00:00 -0500
+date: 2019-12-19 08:00:00 -0500
 categories: JavaScript HTML CSS Webpack Node Jest
 permalink: battleship-game
 thumb: assets/portfolio/microverse/battleship/battleship.jpg
