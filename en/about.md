@@ -12,6 +12,6 @@ I am a curious person, I really like to create things and **solving** real and c
 
 Well, since my home country **Colombia** you might know its a developing country, there are many fundamental society problems that are waiting for solution, I have lived with the commitment to try so solve some of them and basically that took me until here. With a better guidance probably I had been here before, but I have lived many experiences and that long history of my life have make me feel interested in learning about many topics. Now I am all the time learning, from the new web technologies to Geophysics to electronics.
 
-Web development has the potential tackle huge amounts of fundamental and complex problems an actually solve them!. It is very easy to feel frustrated in other engineering fields, as Geotechnical Engineer or Geology where you teorically can propose solutions to terrible problems but you can't implement that solution because of the lack of resources, beliveme there is nothing more frustrating than that.
+Web development has the potential to tackle huge amounts of fundamental and complex problems an actually solve them!. It is very easy to feel frustrated in other engineering fields, as Geotechnical Engineer or Geology where you teorically can propose solutions to terrible problems but you can't implement that solution because its tremendously costly, beliveme there is nothing more frustrating than that.
 
 
