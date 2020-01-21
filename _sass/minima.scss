@@ -294,9 +294,11 @@ embed{
   height: 1200px;
 }
 
-ul{
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-  list-style: disc;
-  list-style-position: inside;
+.page-content{
+  ul{
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    list-style: disc;
+    list-style-position: inside;
+  }
 }
