@@ -4,7 +4,7 @@ title: Bookstore CMS
 author: Carlos Del Real & Radouane Khiri
 position: Main Developer of The Bookstore CMS
 company: Microverse
-date: 2019-01-07 08:00:00 -0500
+date: 2020-01-07 08:00:00 -0500
 categories: React
 permalink: bookstore-cms
 thumb: assets/portfolio/microverse/bookstore/thumb.png
