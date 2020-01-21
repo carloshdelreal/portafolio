@@ -39,5 +39,4 @@ you are able to select the books that you want to list by changing the value in 
     <img src="{{ page.figures }}/select_books.png">
 </figure>
 
-All of this is done in a sigle page application without reloading the page, unfurtunately this application doesn't have a backend to save the data so when you reload the page or close the browser all the data is lost.
-
+All of this is done in a single page application without reloading the page, unfortunately this application doesn't have a backend to save the data so when you reload the page or close the browser all the data is lost.

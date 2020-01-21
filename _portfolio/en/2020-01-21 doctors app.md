@@ -17,7 +17,7 @@ lang: en
 
 Doctor's Application is a partial implementation of the [MediCo - Medical Mobile App](https://www.behance.net/gallery/77208667/MediCo-Medical-mobile-app-UIUX-design?tracking_source=search%7Cmobile%20app){:target="_blank"} designed by Vinisha Panjikar.
 
-You can see a live version of the implementation [At Doctor's App https://doctorscapstone.herokuapp.com/](https://doctorscapstone.herokuapp.com/){:target="_blank"}. This is a Fullstack web application that has been designed for mobile devices.
+You can see a live version of the implementation [At Doctor's App https://doctorscapstone.herokuapp.com/](https://doctorscapstone.herokuapp.com/){:target="_blank"}. This is a Full stack web application that has been designed for mobile devices.
 
 The application consists of a login system, and a backend API that stores your data and feeds the frontend application implemented on React.
 
@@ -36,7 +36,7 @@ once you log in you will be taken to the home page in which you have different o
 Behold the search doctor implementation!, there you can select an specialty and the corresponding doctors will be filtered and displayed to you, select the one that you prefer.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/seach_doctor.png">
+    <img src="{{ page.figures }}/search_doctor.png">
 </figure>
 
 once you select the desired doctor you are able to see information about him/her, the clinic and feedback commenting, then if you are happy you can click on **Book Appointment**.
@@ -45,11 +45,11 @@ once you select the desired doctor you are able to see information about him/her
     <img src="{{ page.figures }}/doctor_profile.png">
 </figure>
 
-The most important and elaborated part of this application is the booking system in which every doctor has a totally independent set of available appointments, you can choose the date and time for the appointment and click on book, you will be prompted to a confirmation window and voila!, your appointment is aranged.
+The most important and elaborated part of this application is the booking system in which every doctor has a totally independent set of available appointments, you can choose the date and time for the appointment and click on book, you will be prompted to a confirmation window and voila!, your appointment is arranged.
 
 the nicest thing about this implementation is that the selected appointment won't be available anymore.
 
-last but not least is that you can go to a main menu in with you can check your booked apointments.
+last but not least is that you can go to a main menu in with you can check your booked appointments.
 
 <figure class="figure">
     <img src="{{ page.figures }}/booking.png">

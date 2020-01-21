@@ -15,10 +15,10 @@ lang: en
 
 ## Generalities
 
-The Calculator project is a standard calculator created using React.js. This "basic" calculator has the capability of computate numbers with excelent presicion and implements the more common operations of an ofice calculator:
+The Calculator project is a standard calculator created using React.js. This "basic" calculator has the capability of compute numbers with excellent precision and implements the more common operations of an office calculator:
 
- - Sumation
- - Substraction
+ - Summation
+ - Subtraction
  - Multiplication
  - Division
  - Percentage
@@ -31,7 +31,7 @@ If you want to check out the code look at the project's repository on [React Cal
 
 ## Calculator Features
 
-Well, there is not much to say abot this project besides that is an elegant calculator that you can use online [React Calculator Live Version](https://calculator-carlos.herokuapp.com/)
+Well, there is not much to say about this project besides that is an elegant calculator that you can use online [React Calculator Live Version](https://calculator-carlos.herokuapp.com/)
 
 <figure class="figure">
     <img src="{{ page.figures }}/home.png">

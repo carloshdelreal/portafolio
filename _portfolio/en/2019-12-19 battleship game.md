@@ -50,7 +50,7 @@ once you have sink all the enemy boats or your enemy destroy all of yours, you w
 ## The coding Background
 
 For this project were used a series of very important techniques for modularizing the code. At a fundamental level it was used
-Object oriented programming, and more specifically factory functions to emulate classes on javascript an create the code as 
+Object oriented programming, and more specifically factory functions to emulate classes on JavaScript an create the code as 
 loosely coupled as possible.
 
 <figure class="figure">
@@ -70,7 +70,7 @@ For this project was used jest as a testing framework, if you want a local copy 
     <img src="{{ page.figures }}/install.png">
 </figure>
 
-Then you can check the testing results by typing `npm run test` this will show up somethin like this
+Then you can check the testing results by typing `npm run test` this will show up something like this
 
 <figure class="figure">
     <img src="{{ page.figures }}/tests_run.png">
