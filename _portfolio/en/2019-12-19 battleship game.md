@@ -16,8 +16,8 @@ lang: en
 ## Generalities
 
 Battleship is an implementation of the Battleship Game coded in JavaScript. It was created completely form scratch
-check the game at [Battleship game](https://carloshdelreal.github.io/battleship/dist/index.html). if you want to checkout
-the code look at the repository on [Battleship Game Repository](https://github.com/carloshdelreal/battleship)
+check the game at [Battleship game](https://carloshdelreal.github.io/battleship/dist/index.html){:target="_blank"}. if you want to checkout
+the code look at the repository on [Battleship Game Repository](https://github.com/carloshdelreal/battleship){:target="_blank"}
 
 ## Game Flow
 
@@ -59,12 +59,12 @@ loosely coupled as possible.
 
 as result you can see at the folder structure that each of the folders correspond to and object that could be reused in the 
 implementation of a similar game. not to mention that the application of the SOLID principles makes the code much more readable
-and easy to learn and understand. if you want to know more about [Solid Principles](https://medium.com/@carloshdelreal/stop-coding-bad-practices-d976ce05dbc6) checkout an article that I have written
+and easy to learn and understand. if you want to know more about [Solid Principles](https://medium.com/@carloshdelreal/stop-coding-bad-practices-d976ce05dbc6){:target="_blank"} checkout an article that I have written
 about it.
 
 ## Testing
 
-For this project was used jest as a testing framework, if you want a local copy of this project just follow the [Battleship Game Repository](https://github.com/carloshdelreal/battleship) instructions. navigate to your repository folder and type `npm install` and you will see
+For this project was used jest as a testing framework, if you want a local copy of this project just follow the [Battleship Game Repository](https://github.com/carloshdelreal/battleship){:target="_blank"} instructions. navigate to your repository folder and type `npm install` and you will see
 
 <figure class="figure">
     <img src="{{ page.figures }}/install.png">

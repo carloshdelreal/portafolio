@@ -52,7 +52,7 @@ collections:
   web-development:
     output: true
 
-google_analytics: "UA-155114054-1"
+google_analytics: UA-155114054-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

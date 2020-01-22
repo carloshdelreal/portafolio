@@ -25,13 +25,13 @@ The Calculator project is a standard calculator created using React.js. This "ba
  - Negative Numbers
 
 
-Check out the [React Calculator Live Version](https://calculator-carlos.herokuapp.com/) 
+Check out the [React Calculator Live Version](https://calculator-carlos.herokuapp.com/){:target="_blank"}
 
-If you want to check out the code look at the project's repository on [React Calculator Project's Repository](https://github.com/carloshdelreal/calculator)
+If you want to check out the code look at the project's repository on [React Calculator Project's Repository](https://github.com/carloshdelreal/calculator){:target="_blank"}
 
 ## Calculator Features
 
-Well, there is not much to say about this project besides that is an elegant calculator that you can use online [React Calculator Live Version](https://calculator-carlos.herokuapp.com/)
+Well, there is not much to say about this project besides that is an elegant calculator that you can use online [React Calculator Live Version](https://calculator-carlos.herokuapp.com/){:target="_blank"}
 
 <figure class="figure">
     <img src="{{ page.figures }}/home.png">

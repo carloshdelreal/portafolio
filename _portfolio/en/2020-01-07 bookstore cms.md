@@ -15,13 +15,13 @@ lang: en
 
 ## Generalities
 
-Bookstore CMS is a **React & Redux** application that handles books by name and category [Bookstore CMS](https://bookstore-cared.herokuapp.com/). as it is implemented in react is a single page application with capabilities adding, remove, display and select books by category.
+Bookstore CMS is a **React & Redux** application that handles books by name and category [Bookstore CMS](https://bookstore-cared.herokuapp.com/){:target="_blank"}. as it is implemented in react is a single page application with capabilities adding, remove, display and select books by category.
 
-if you want to review the source code you can check out the [Bookstore CMS Repository](https://github.com/Redvanisation/Bookstore)
+if you want to review the source code you can check out the [Bookstore CMS Repository](https://github.com/Redvanisation/Bookstore){:target="_blank"}
 
 ## App Features
 
-once you access to the [Bookstore CMS](https://bookstore-cared.herokuapp.com/) you will be taken to the home page, there you will see the books created by default
+once you access to the [Bookstore CMS](https://bookstore-cared.herokuapp.com/){:target="_blank"} you will be taken to the home page, there you will see the books created by default
 
 <figure class="figure">
     <img src="{{ page.figures }}/home.png">
