@@ -62,7 +62,7 @@ este fenómeno destruyó numerosas casas y fincas en el sector.
     <img src="{{ page.figures }}/pano-deslizamiento2.jpg">
 </figure>
 <figure class="figure">
-    <img src="{{ page.figures }}/figura7.jpg">
+    <img src="{{ page.figures }}/figura8.jpg">
 </figure>
 
 <embed src="{{ site.url }}/assets/portfolio/lacamacha/Informe La Camacha.pdf" type="application/pdf" width="100%" height="2600px" />
