@@ -4,9 +4,15 @@ nav-title: About
 title: About me
 lang: en
 nav-order: 4
+figures: assets/images
 ---
 
+<figure class="figure-right">
+    <img src="{{ url }}/{{ page.figures }}/carlos-photo.jpg">
+</figure>
+
 I am a curious person, I really like to create things and **solving** real and challenging problems. I am a former Geologist with Specialization in Geotechnical Engineering, I Studied Disaster Risk Reduction in Japan thanks to [JICA Japan International Cooperation Agency](https://www.jica.go.jp/english/index.html) and Geophysics, Seismology and Earthquake Engineering thanks to the sponsor of [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/en/about-us/organisation/gfz-profile/), Currently I am on a Master's degree on Geographic Information Science & Systems at the University of Salzburg Austria. I was a Cadet at the Colombian Air Force and at that time I was a high level basketball player.
+
 
 ### Why a web developer?
 
