@@ -1,7 +1,9 @@
 ---
 layout: posts
-nav-title: Blog
 title: Blog
-lang: en
+nav-title: Blog
 nav-order: 3
+lang: en
 ---
+
+Checkout my blogs.

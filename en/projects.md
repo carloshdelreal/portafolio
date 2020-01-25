@@ -8,3 +8,5 @@ title: Projects
 lang: en
 nav-order: 2
 ---
+
+These are some of the projects that I have worked on, check out the live version, or go through the explanation of every one of those amazing projects.

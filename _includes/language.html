@@ -1,9 +1,13 @@
+{% if page.nav-order %}
+{% assign p=site.pages | where:"nav-order", page.nav-order | sort: 'lang' %}
+{% endif %}
+
 <div class="languages">
   <div>
     <ul>
       {% if page.lang == 'es' %}
       <li>
-        <a href="/en/">
+        <a href="{{ p[0].url | default: 'en' }}">
           <img src="{{ site.baseurl}}/assets/images/english.jpg" alt="english-language" />
           EN
         </a>
@@ -11,7 +15,7 @@
       {% else %}
 
       <li>
-        <a href="/es/">
+        <a href="{{ p[1].url | default: 'es' }}">
           <img src="{{ site.baseurl}}/assets/images/spanish.jpg" alt="spanish-language" />
           ES
         </a>
