@@ -1,4 +1,5 @@
 ---
+post_id: 1
 layout: post
 title: "Mi primer post"
 date: 2019-05-17 08:27:30 -0500

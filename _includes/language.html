@@ -2,6 +2,10 @@
 {% assign p=site.pages | where:"nav-order", page.nav-order | sort: 'lang' %}
 {% endif %}
 
+{% if page.post_id %}
+{% assign p=site.posts | where:"post_id", page.post_id | sort: 'lang' %}
+{% endif %}
+
 <div class="languages">
   <div>
     <ul>
