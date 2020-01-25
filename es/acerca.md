@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Éste Sitio
+title: Perfil
+nav-title: Perfil
+title: Perfil
 lang: es
 ---
 

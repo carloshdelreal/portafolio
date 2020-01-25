@@ -7,6 +7,7 @@ company: Microverse
 date: 2020-01-21 08:00:00 -0500
 categories: "Ruby on Rails + React"
 permalink: doctors-app
+live: Doctors
 thumb: assets/portfolio/microverse/doctors/thumb.png
 figures: assets/portfolio/microverse/doctors
 description: "Fullstack Web application with backend Ruby on Rails and React Frontend"

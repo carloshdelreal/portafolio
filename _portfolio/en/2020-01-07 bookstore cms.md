@@ -7,6 +7,7 @@ company: Microverse
 date: 2020-01-07 08:00:00 -0500
 categories: React
 permalink: bookstore-cms
+live: Bookstore
 thumb: assets/portfolio/microverse/bookstore/thumb.png
 figures: assets/portfolio/microverse/bookstore
 description: "A bookstore CMS built on React"

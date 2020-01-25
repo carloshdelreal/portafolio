@@ -7,6 +7,7 @@ company: Microverse
 date: 2019-12-19 08:00:00 -0500
 categories: JavaScript HTML CSS Webpack Node Jest
 permalink: battleship-game
+live: Battleship
 thumb: assets/portfolio/microverse/battleship/battleship.jpg
 figures: assets/portfolio/microverse/battleship
 description: "The most addicting and funniest Battleship Game Ever!"

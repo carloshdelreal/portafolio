@@ -7,6 +7,7 @@ company: Microverse
 date: 2019-12-31 08:00:00 -0500
 categories: React JavaScript HTML CSS 
 permalink: react_calculator
+live: Calculator
 thumb: assets/portfolio/microverse/calculator/thumb.png
 figures: assets/portfolio/microverse/calculator
 description: "A serious calculator project using React.js"
