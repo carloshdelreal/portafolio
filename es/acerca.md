@@ -1,11 +1,15 @@
 ---
-page_id: 1
 layout: page
 title: Perfil
 nav-title: Perfil
 nav-order: 4
 lang: es
+figures: assets/images
 ---
+
+<figure class="figure-right">
+    <img src="{{ url }}/{{ page.figures }}/carlos-photo.jpg">
+</figure>
 
 Soy una persona curiosa que le gusta construir cosas y resolver problemas complejos, soy Geólogo con una especialización en Geotécnia, Estudié Reducción del Riesgo de Desastres en Japón gracias a [JICA La Agencia Internacional de Cooperación del Japón](https://www.jica.go.jp/english/index.html), también estudié Geofísica, Sismología e Ingeniería de Terremotos gracias al apoyo de el [GFZ El Centro Alemán para la investigación en Geociencias](https://www.gfz-potsdam.de/en/about-us/organisation/gfz-profile/) en la ciudad de Potsdam Alemania, a las afueras de Berlin. Actualmente me encuentro enrolado en una Maestría en Sistemas de Información Geográfica en la Universidad de Salzburgo Austria. Fui Cadete de la Fuerza Aérea Colombiana y en aquel tiempo era un destacado jugador de Baloncesto.
 

@@ -271,4 +271,14 @@ embed{
     list-style: disc;
     list-style-position: inside;
   }
+  p{
+    text-align: justify;
+  }
+}
+
+.figure-right{
+  width: 25%;
+  float: right;
+  min-width: 100px;
+  margin: 1rem;
 }
