@@ -6,7 +6,6 @@ position: React Developer
 company: Microverse
 date: 2019-12-31 08:00:00 -0500
 categories: React JavaScript HTML CSS 
-permalink: react_calculator
 live: Calculator
 thumb: assets/portfolio/microverse/calculator/thumb.png
 figures: assets/portfolio/microverse/calculator
@@ -35,5 +34,5 @@ If you want to check out the code look at the project's repository on [React Cal
 Well, there is not much to say about this project besides that is an elegant calculator that you can use online [React Calculator Live Version](https://calculator-carlos.herokuapp.com/){:target="_blank"}
 
 <figure class="figure">
-    <img src="{{ page.figures }}/home.png">
+    <img src="{{ url }}/{{ page.figures }}/home.png">
 </figure>

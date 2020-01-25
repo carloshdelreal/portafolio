@@ -6,7 +6,6 @@ position: Main Developer of The Battleship Game
 company: Microverse
 date: 2019-12-19 08:00:00 -0500
 categories: JavaScript HTML CSS Webpack Node Jest
-permalink: battleship-game
 live: Battleship
 thumb: assets/portfolio/microverse/battleship/battleship.jpg
 figures: assets/portfolio/microverse/battleship
@@ -26,26 +25,26 @@ to start the game you simply click the game start button, and your boats will ap
 randomly every time you click the game start button.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/game_start.jpg">
+    <img src="{{ url }}/{{ page.figures }}/game_start.jpg">
 </figure>
 
 now you are ready to start firing!!, go an click on the enemy board the squares that you want to fire, every time you fire
 the enemy will fire you back.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/fire.jpg">
+    <img src="{{ url }}/{{ page.figures }}/fire.jpg">
 </figure>
 
 fire until the end, up to the last boat!
 
 <figure class="figure">
-    <img src="{{ page.figures }}/fire_until_the_end.jpg">
+    <img src="{{ url }}/{{ page.figures }}/fire_until_the_end.jpg">
 </figure>
 
 once you have sink all the enemy boats or your enemy destroy all of yours, you will see victory message will be shown.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/game_end.jpg">
+    <img src="{{ url }}/{{ page.figures }}/game_end.jpg">
 </figure>
 
 ## The coding Background
@@ -55,7 +54,7 @@ Object oriented programming, and more specifically factory functions to emulate 
 loosely coupled as possible.
 
 <figure class="figure">
-    <img src="{{ page.figures }}/folder_structure.png">
+    <img src="{{ url }}/{{ page.figures }}/folder_structure.png">
 </figure>
 
 as result you can see at the folder structure that each of the folders correspond to and object that could be reused in the 
@@ -68,18 +67,17 @@ about it.
 For this project was used jest as a testing framework, if you want a local copy of this project just follow the [Battleship Game Repository](https://github.com/carloshdelreal/battleship){:target="_blank"} instructions. navigate to your repository folder and type `npm install` and you will see
 
 <figure class="figure">
-    <img src="{{ page.figures }}/install.png">
+    <img src="{{ url }}/{{ page.figures }}/install.png">
 </figure>
 
 Then you can check the testing results by typing `npm run test` this will show up something like this
 
 <figure class="figure">
-    <img src="{{ page.figures }}/tests_run.png">
+    <img src="{{ url }}/{{ page.figures }}/tests_run.png">
 </figure>
 
 once all the test passes you will see
 
 <figure class="figure">
-    <img src="{{ page.figures }}/tests_pass.png">
+    <img src="{{ url }}/{{ page.figures }}/tests_pass.png">
 </figure>
-
