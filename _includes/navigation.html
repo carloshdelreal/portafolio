@@ -1,0 +1,15 @@
+<nav class="portfolio-nav">
+    {% assign portfolio=site.portfolio | where:"lang", page.lang | sort: 'lang' %}
+    {%- if portfolio.size > 0 -%}
+    <ul>
+        {%- for work in portfolio -%}
+        <li>
+            <a href="{{ work.url }}">
+                {{ work.title }}
+            </a>
+
+        </li>
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
+</nav>

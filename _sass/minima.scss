@@ -254,6 +254,13 @@ header{
   h2{
     font-size: x-large;
   }
+  .portfolio-nav{
+    ul{
+      list-style: none;
+    }
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
 }
 embed{
   height: 1200px;
