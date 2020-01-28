@@ -267,6 +267,9 @@ embed{
 }
 
 .page-content{
+  .post-list{
+    list-style: none;
+  }
   .welcome{
     ul{
       list-style: none;
@@ -280,6 +283,11 @@ embed{
   }
   p{
     text-align: justify;
+  }
+  .card{
+    p{
+      text-align: left;
+    }
   }
 }
 
