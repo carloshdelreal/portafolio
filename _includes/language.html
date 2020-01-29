@@ -15,7 +15,7 @@
     <ul>
       {% if page.lang == 'es' %}
       <li>
-        <a href="{{ p[0].url | default: 'en' }}">
+        <a href="{{ p[0].url | default: '' }}">
           <img src="{{ site.baseurl}}/assets/images/english.jpg" alt="english-language" />
           EN
         </a>
@@ -23,7 +23,7 @@
       {% else %}
 
       <li>
-        <a href="{{ p[1].url | default: 'es' }}">
+        <a href="{{ p[1].url | default: '' }}">
           <img src="{{ site.baseurl}}/assets/images/spanish.jpg" alt="spanish-language" />
           ES
         </a>
