@@ -57,6 +57,16 @@ header {
   position: sticky;
   top: -86px;
   background: white;
+  .social-media-list{
+    float: left;
+    margin-top: 15px;
+    li{
+      display: inline-block;
+      padding: 3px;
+      margin: 3px 10px;
+    }
+    
+  }
 }
 .wrapper {
   position: relative;
@@ -297,3 +307,5 @@ embed{
   min-width: 100px;
   margin: 1rem;
 }
+
+
