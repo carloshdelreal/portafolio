@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Contáctame
+nav-title: Contacto
+nav-order: 5
 lang: es
 figures: assets/images
 ---
+{% assign thanks_url = site.url | append: "/" | append: page.lang | append: "/" | append: "thanks" %}
 
 Envíame un mensaje :D
 
@@ -15,30 +18,30 @@ Envíame un mensaje :D
     <label>
       Nombre:
     </label>
-    <input type="text" name="_replyto">
+    <input type="text" name="_name">
   </div>
   
   <div class="form-group">
     <label>
-      email
-      <input type="email" required name="_replyto">
+      email:
     </label>
+    <input type="email" required name="_email">
   </div>
   
   <div class="form-group">
     <label>
-      Teléfono
-      <input type="phone" name="_replyto">
+      Teléfono:
     </label>
+    <input type="phone" name="_phone">
   </div>
 
   <div class="form-group">
     <label>
       Mensaje:
-      <textarea name="message"></textarea>
     </label>
+    <textarea required rows="5" name="_message"></textarea>
   </div>
-  <input type="hidden" name="_next" value="{{ url }}/{{ page.lang }}/thanks.html">
+  <input type="hidden" name="_next" value="{{ thanks_url }}">
 
   <button class="btn btn-success" type="submit">enviar</button>
 </form>

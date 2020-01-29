@@ -1,7 +1,7 @@
 ---
 layout: home
 nav-title: Home
-title: Hi, I am Carlos Del Real
+title: Hi, I am Carlos
 lang: en
 nav-order: 1
 ---
