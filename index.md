@@ -6,7 +6,7 @@ layout: welcome
 title: Welcome // Bienvenido
 ---
 
-### Select your Prefered Language // Selecciona tu Idioma preferido
+### Select your Preferred Language // Selecciona tu Idioma preferido
 
 <div class="welcome">
   <ul>

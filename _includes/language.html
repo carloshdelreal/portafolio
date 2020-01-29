@@ -6,6 +6,10 @@
 {% assign p=site.posts | where:"post_id", page.post_id | sort: 'lang' %}
 {% endif %}
 
+{% if page.port_id %}
+{% assign p=site.portfolio | where:"port_id", page.port_id | sort: 'lang' %}
+{% endif %}
+
 <div class="languages">
   <div>
     <ul>
