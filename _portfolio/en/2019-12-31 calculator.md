@@ -16,7 +16,7 @@ lang: en
 
 ## Generalities
 
-The Calculator project is a standard calculator created using React.js. This "basic" calculator has the capability of compute numbers with excellent precision and implements the more common operations of an office calculator:
+This project is a standard calculator created using React.js. This “basic” calculator has the capability to compute numbers and implements the more common operations of an office calculator:
 
  - Summation
  - Subtraction
@@ -24,7 +24,6 @@ The Calculator project is a standard calculator created using React.js. This "ba
  - Division
  - Percentage
  - Negative Numbers
-
 
 Check out the [React Calculator Live Version](https://calculator-carlos.herokuapp.com/){:target="_blank"}
 
