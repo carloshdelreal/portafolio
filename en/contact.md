@@ -8,7 +8,7 @@ figures: assets/images
 ---
 {% assign thanks_url = site.url | append: "/" | append: page.lang | append: "/" | append: "thanks" %}
 
-feel free to send me a message :D
+Feel free to send me a message :D
 
 <form
   action="https://formspree.io/meqgqjdq"
@@ -23,7 +23,7 @@ feel free to send me a message :D
   
   <div class="form-group">
     <label>
-      email:
+      Email:
     </label>
     <input type="email" required name="_email">
   </div>
