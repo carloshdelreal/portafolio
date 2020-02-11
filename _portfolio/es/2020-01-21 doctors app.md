@@ -16,6 +16,8 @@ lang: es
 
 ## Generalidades
 
+Una aplicación web full-stack que permite a los usuarios buscar médicos locales, agendar y manejar citas. Construido utilizando Ruby on Rails y React.
+
 La aplicación Doctor es una implementación parcial de la aplicación [MediCo - Medical Mobile App](https://www.behance.net/gallery/77208667/MediCo-Medical-mobile-app-UIUX-design?tracking_source=search%7Cmobile%20app){:target="_blank"} diseñada por Vinisha Panjikar.
 
 Puedes ver la versión en vivo de la implementación en [Doctor's App https://doctorscapstone.herokuapp.com/](https://doctorscapstone.herokuapp.com/){:target="_blank"}. Ésta es una aplicación web Full-stack que se diseño principalmente para dispositivos móviles.
