@@ -107,9 +107,7 @@ header {
   margin: 0;
   font-size: 0.8em;
 }
-.card-footer a:first-of-type {
-  flex-basis: 65%;
-}
+
 .card-content {
   position: relative;
   padding: 0;
@@ -117,7 +115,7 @@ header {
     padding: 0;
     border: none;
     display: block;
-    height: 200px;
+    height: 18rem;
     position: relative;
     overflow: hidden;
   }
@@ -186,42 +184,6 @@ main h1 {
   max-height: 48px; /* fallback */
   -webkit-line-clamp: 3; /* number of lines to show */
   -webkit-box-orient: vertical;
-}
-
-@media screen and (min-width: 450px) {
-  .column.is-one-third,
-  .column.is-one-third-tablet {
-    width: 50%;
-    flex: none;
-  }
-  .columns {
-    display: flex;
-  }
-}
-
-@media screen and (min-width: 600px) {
-  figure > img {
-    max-width: 75%;
-    margin: auto;
-  }
-  .post-content .figure {
-    margin: 15px;
-  }
-  .column.is-one-third,
-  .column.is-one-third-tablet {
-    width: 33.33%;
-    flex: none;
-  }
-  .columns {
-    display: flex;
-  }
-}
-
-@media screen and (min-width: 1088px) {
-  .container {
-    max-width: 960px;
-    width: auto;
-  }
 }
 
 /////////////////////////////////////

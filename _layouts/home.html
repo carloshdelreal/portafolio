@@ -15,17 +15,12 @@ layout: default
   {%- if portfolio.size > 0 -%}
     <h2 class="post-list-heading">{{ site.data.translations.portfolio[page.lang]}}</h2>
     <div>
-      <div class="container">
+      <div>
         <div class="columns is-multiline">
           {%- for work in portfolio -%}
-          <div class="column is-one-third">
+          <div class="column is-half is-mobile">
             <div class="card">
               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-              <header class="card-header">
-                <p class="card-header-title">
-                  <span>{{ work.position | escape }}</span>
-                </p>
-              </header>
               <div class="card-content">
                 <span class="post-meta">{{ work.date | date: date_format }}</span>
                 <figure class="image">

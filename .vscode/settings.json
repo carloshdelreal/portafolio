@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
+    "elipsis",
+    "geotechnical",
     "microverse"
   ],
   "spellright.language": [
@@ -10,5 +12,6 @@
     "latex",
     "plaintext",
     "markdown"
-  ]
+  ],
+  "terminal.integrated.fontSize": 10
 }
