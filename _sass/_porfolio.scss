@@ -1,0 +1,17 @@
+.post{
+  img{
+    margin: auto;
+  }
+  .post-list{
+    list-style: none;
+  }
+}
+.card-footer{
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    background-color: rgba($color: $grey-color-light, $alpha: 1);
+    transition: 0.3s;
+  }
+}

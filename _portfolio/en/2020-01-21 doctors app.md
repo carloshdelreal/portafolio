@@ -10,7 +10,7 @@ categories: "Ruby on Rails + React"
 live: Doctors
 thumb: assets/portfolio/microverse/doctors/thumb.png
 figures: assets/portfolio/microverse/doctors
-description: "Fullstack Web application with backend Ruby on Rails and React Frontend"
+description: "Fullstack Web application with backend Ruby on Rails and React Frontend. Tested using RSpec, Capybara and Jest"
 lang: en
 ---
 

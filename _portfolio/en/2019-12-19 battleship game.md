@@ -10,7 +10,7 @@ categories: JavaScript HTML CSS Webpack Node Jest
 live: Battleship
 thumb: assets/portfolio/microverse/battleship/battleship.jpg
 figures: assets/portfolio/microverse/battleship
-description: "The most addicting and funniest Battleship Game Ever!"
+description: "The most addicting and funniest Battleship Game Ever! Using JavaScript and tested with Jest."
 lang: en
 ---
 

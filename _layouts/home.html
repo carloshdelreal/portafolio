@@ -10,10 +10,11 @@ layout: default
 
   {{ content }}
 
-  <hr>
+  <br>
   {% assign portfolio=site.portfolio | where:"lang", page.lang | sort: 'lang' %}
   {%- if portfolio.size > 0 -%}
     <h2 class="post-list-heading">{{ site.data.translations.portfolio[page.lang]}}</h2>
+    <br>
     <div>
       <div>
         <div class="columns is-multiline">
@@ -38,6 +39,7 @@ layout: default
               </div>
               <footer class="card-footer"> 
                 {% include liveVersions.html %}
+                {% include repos.html %}
                 <a href="{{ work.url | relative_url }}" class="card-footer-item">{{ site.data.translations.ver-overview[page.lang] }}</a>
               </footer>
 
@@ -49,6 +51,7 @@ layout: default
 
       </div>
     </div>
+    <br>
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 </div>

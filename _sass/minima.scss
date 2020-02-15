@@ -2,6 +2,7 @@
 @import './variables';
 @import './forms';
 @import './orderedList';
+@import './porfolio';
 @import url('https://fonts.googleapis.com/css?family=Bad+Script&display=swap');
 
 @mixin media-query($device) {
@@ -93,6 +94,12 @@ header {
 /////////////////////////////////////
 // CARDS ////////////////////////////
 //////////////////////////////////////
+.card:hover{
+  -webkit-box-shadow: -3px 1px 13px 12px rgba(0,0,0,0.3);
+  -moz-box-shadow: -3px 1px 13px 12px rgba(0,0,0,0.3);
+  box-shadow: -3px 1px 13px 12px rgba(0,0,0,0.3);
+  transition: 1s;
+}
 
 .card-header {
   height: 65px;
@@ -240,9 +247,6 @@ embed{
 }
 
 .page-content{
-  .post-list{
-    list-style: none;
-  }
   .welcome{
     ul{
       list-style: none;

@@ -10,7 +10,7 @@ categories: React
 live: Bookstore
 thumb: assets/portfolio/microverse/bookstore/thumb.png
 figures: assets/portfolio/microverse/bookstore
-description: "A bookstore CMS built on React"
+description: "A bookstore CMS built on React & Redux"
 lang: en
 ---
 
