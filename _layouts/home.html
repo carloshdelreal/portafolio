@@ -11,7 +11,7 @@ layout: default
   {{ content }}
 
   <br>
-  {% assign portfolio=site.portfolio | where:"lang", page.lang | sort: 'lang' %}
+  {% assign portfolio=site.portfolio | where:"lang", page.lang | sort: 'port_id' %}
   {%- if portfolio.size > 0 -%}
     <h2 class="post-list-heading">{{ site.data.translations.portfolio[page.lang]}}</h2>
     <br>
