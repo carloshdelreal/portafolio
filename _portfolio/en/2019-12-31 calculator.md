@@ -10,7 +10,7 @@ categories: React JavaScript HTML CSS
 live: Calculator
 thumb: assets/portfolio/microverse/calculator/thumb.png
 figures: assets/portfolio/microverse/calculator
-description: "A serious calculator project using React.js"
+description: "A serious calculator project built using React.js."
 lang: en
 ---
 

@@ -10,13 +10,12 @@ categories: React
 live: Bookstore
 thumb: assets/portfolio/microverse/bookstore/thumb.png
 figures: assets/portfolio/microverse/bookstore
-description: "A bookstore CMS built on React & Redux"
+description: "A bookstore CMS built with React & Redux."
 lang: en
 ---
 
 ## Generalities
-
-Bookstore CMS is a **React & Redux** application that handles books by name and category [Bookstore CMS](https://bookstore-cared.herokuapp.com/){:target="_blank"}. as it is implemented in react is a single page application with capabilities adding, remove, display and select books by category.
+This Bookstore CMS is an application built with **React & Redux** that organizes books by name and category. [Bookstore CMS](https://bookstore-cared.herokuapp.com/){:target="_blank"}, as it is implemented in React, is a single-page application able to add, remove, display, and select books by category.
 
 If you want to review the source code you can check out the [Bookstore CMS Repository](https://github.com/Redvanisation/Bookstore){:target="_blank"}
 
