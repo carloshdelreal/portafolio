@@ -1,5 +1,5 @@
 ---
-port_id: 6
+port_id: 1
 layout: portfolio
 title: Doctor's App
 author: Carlos Del Real
@@ -10,7 +10,7 @@ categories: "Ruby on Rails + React"
 live: Doctors
 thumb: assets/portfolio/microverse/doctors/thumb.png
 figures: assets/portfolio/microverse/doctors
-description: "Fullstack Web application with backend Ruby on Rails and React Frontend. Tested using RSpec, Capybara and Jest"
+description: "A full-stack web application built with Ruby on Rails for the backend and React for the frontend. Tested using RSpec, Capybara, and Jest."
 lang: en
 ---
 
@@ -20,7 +20,7 @@ A full-stack web application to allow users to search for local physicians, sche
 
 Doctor's Application is a partial implementation of the [MediCo - Medical Mobile App](https://www.behance.net/gallery/77208667/MediCo-Medical-mobile-app-UIUX-design?tracking_source=search%7Cmobile%20app){:target="_blank"} designed by Vinisha Panjikar.
 
-You can see a live version of the implementation [At Doctor's App https://doctorscapstone.herokuapp.com/](https://doctorscapstone.herokuapp.com/){:target="_blank"}. This is a Full stack web application that has been designed for mobile devices.
+You can see a live version of the implementation [At Doctor's App](https://doctorscapstone.herokuapp.com/){:target="_blank"}. This is a Full stack web application that has been designed for mobile devices.
 
 The application consists of a login system, and a backend API that stores your data and feeds the frontend application implemented with React.
 

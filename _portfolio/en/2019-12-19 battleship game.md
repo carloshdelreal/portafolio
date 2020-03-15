@@ -1,5 +1,5 @@
 ---
-port_id: 3
+port_id: 4
 layout: portfolio
 title: Battleship Game
 author: Carlos Del Real & António Fernandez
@@ -10,15 +10,13 @@ categories: JavaScript HTML CSS Webpack Node Jest
 live: Battleship
 thumb: assets/portfolio/microverse/battleship/battleship.jpg
 figures: assets/portfolio/microverse/battleship
-description: "The most addicting and funniest Battleship Game Ever! Using JavaScript and tested with Jest."
+description: "The most addicting and fun Battleship Game ever! Built using JavaScript and tested with Jest."
 lang: en
 ---
 
 ## Generalities
 
-Battleship is an implementation of the Battleship Game coded in JavaScript. It was created completely form scratch
-check the game at [Battleship game](https://carloshdelreal.github.io/battleship/dist/index.html){:target="_blank"}. if you want to checkout
-the code look at the repository on [Battleship Game Repository](https://github.com/carloshdelreal/battleship){:target="_blank"}
+Battleship is an implementation of the Battleship Game coded in JavaScript. It was created completely from scratch. Check out the game at [Battleship game](https://carloshdelreal.github.io/battleship/dist/index.html){:target="_blank"}. If you want to check out the code, take a look at the repository on [Battleship Game Repository](https://github.com/carloshdelreal/battleship){:target="_blank"}
 
 ## Game Flow
 

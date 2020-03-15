@@ -16,8 +16,9 @@ I am a curious person, I really like to create things and **solving** real and c
 
 ### Why a web developer?
 
-Well, since my home country **Colombia** you might know its a developing country, there are many fundamental society problems that are waiting for solution, I have lived with the commitment to try so solve some of them and basically that took me until here. With a better guidance probably I had been here before, but I have lived many experiences and that long history of my life have make me feel interested in learning about many topics. Now I am all the time learning, from the new web technologies to Geophysics to electronics.
+My home country of Colombia is, as you might know, a developing country, and there are many fundamental societal problems that are waiting for solutions. I am committed to trying to solve some of those problems, and that commitment led me to development. I have enjoyed many experiences over the past several years, and the long history of my life has made me interested in learning about many topics. I am always learning, from new web technologies to Geophysics to electronics.
 
-Web development has the potential to tackle huge amounts of fundamental and complex problems an actually solve them! It is very easy to feel frustrated in other engineering fields, as Geotechnical Engineer or Geology where you teorically can propose solutions to terrible problems but you can't implement that solution because its tremendously costly, beliveme there is nothing more frustrating than that.
+Web development has the potential to tackle huge fundamental and complex societal problems-- and actually solve them! It is very easy to feel frustrated in other engineering fields, such as Geotechnical Engineering or Geology, where you can propose theoretical solutions to terrible problems but can’t always implement those solutions due to cost (believe me, there is nothing more frustrating than that). But web development allows people to implement solutions quickly and at scale, and therefore has the potential to help change the world for the better.
+
 
 
