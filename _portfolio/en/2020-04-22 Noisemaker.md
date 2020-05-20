@@ -10,7 +10,7 @@ categories: React RSpec Jest
 live: synte
 thumb: assets/portfolio/mintbean/synte_thumb.png
 figures: assets/portfolio/mintbean
-description: "An Implementation of a Syntetizer Using React.js and the HTML5 audio API"
+description: "An Implementation of a Synthesizer Using React.js and the HTML5 audio API"
 lang: en
 ---
 
