@@ -7,23 +7,32 @@ position: Full Stack Web Developer
 company: Mintbean Hackathons
 date: 2020-04-19 08:00:00 -0500
 categories: React RSpec Jest
-live: Conway
+live: synte
 thumb: assets/portfolio/mintbean/synte_thumb.png
 figures: assets/portfolio/mintbean
-description: "An Implementation of a Syntetizer Using React.js and the HTML5"
+description: "An Implementation of a Syntetizer Using React.js and the HTML5 audio API"
 lang: en
 ---
 
 ## Generalities
 
-React implementation of the [Conway's game of Life](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
+React implementation of a Synthesizer [Carlos Synte](https://noise-maker-carlos.herokuapp.com/) it implements component hierarchy to reuse code and therefore be able to reply many piano like notes.
+
+you can checkout the code at [Carlos Synte Repo](https://github.com/carloshdelreal/2020-04-22-Noisemaker)
 
 ### Live demonstration
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/43d279dbeab64628ae564ac481a2d5f0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bdb06b1708f64664b1e6f74059e68e6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <hr>
 
-## Conway's Game of life features
+## Synthesizer
 
-You can check out the source code at [Conway's Game of Life Repository](https://github.com/carloshdelreal/2020-04-19-Conways-Game-of-Life-4-day-extended){:target="_blank"}
+<div>
+  <a href="https://noise-maker-carlos.herokuapp.com/" target="_blank">
+    <figure class="figure">
+      <img src="{{ url }}/{{ page.figures }}/synte_thumb.png">
+    </figure>
+  </a>
+</div>
+<br>
