@@ -14,9 +14,9 @@ description: "Aplicación en HTML CSS y Javascript que implementa la API de Goog
 lang: es
 ---
 
-## Generalities
+## Generalidades
 
-Stores map project implemented using the Google Maps API that allows to set the stores locations with coordinates and description.
+Mapa de Tiendas implementado utilizando la API de Google maps que permite mostrar la localización de las diferentes tiendas en el mapa y presentar variados detalles sobre cada una de ellas.
 
 <br>
 <figure class="figure">
@@ -24,6 +24,7 @@ Stores map project implemented using the Google Maps API that allows to set the 
 </figure>
 <br>
 
-## Features
+## Principales Características
 
-On this project are implemented the most common features of a custom map, that requires a map base that is obtained from google maps, map markers that are located on the corresponding stores coordinates and a list of those stores with additional data that could be used to searching.
+En este proyecto se implementan las características mas comunes de un mapa personalizado, que requiere un mapa base que se obtiene de google maps, marcadores que se localizan según las coordenadas de cada una de las tiendas
+con información adicional que se puede utilizar como criterio de búsqueda.
