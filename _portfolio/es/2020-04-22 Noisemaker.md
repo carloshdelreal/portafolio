@@ -16,17 +16,17 @@ lang: es
 
 ## Generalidades
 
-Implementación en React.js de un sintetizador [Carlos Synte](https://noise-maker-carlos.herokuapp.com/) implementa una gerarquía de componentes para reusar código y así mostrar muchas teclas similares a las de un piano.
+Implementación en React.js de un sintetizador [Carlos Synte](https://noise-maker-carlos.herokuapp.com/) implementa una jerarquía de componentes para reusar código y así mostrar muchas teclas similares a las de un piano.
 
 puedes echar un vistazo al código de este proyecto en [Carlos Synte Repo](https://github.com/carloshdelreal/2020-04-22-Noisemaker)
 
-### Live demonstration
+### Demonstración en Vivo
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bdb06b1708f64664b1e6f74059e68e6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <hr>
 
-## Synthesizer
+## Sintetizador
 
 <div>
   <a href="https://noise-maker-carlos.herokuapp.com/" target="_blank">
