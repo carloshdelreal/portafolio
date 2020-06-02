@@ -14,11 +14,11 @@ description: "Implementación de un Sintetizador utilizando react y la API de au
 lang: es
 ---
 
-## Generalities
+## Generalidades
 
-React implementation of a Synthesizer [Carlos Synte](https://noise-maker-carlos.herokuapp.com/) it implements component hierarchy to reuse code and therefore be able to reply many piano like notes.
+Implementación en React.js de un sintetizador [Carlos Synte](https://noise-maker-carlos.herokuapp.com/) implementa una gerarquía de componentes para reusar código y así mostrar muchas teclas similares a las de un piano.
 
-you can checkout the code at [Carlos Synte Repo](https://github.com/carloshdelreal/2020-04-22-Noisemaker)
+puedes echar un vistazo al código de este proyecto en [Carlos Synte Repo](https://github.com/carloshdelreal/2020-04-22-Noisemaker)
 
 ### Live demonstration
 
