@@ -16,8 +16,8 @@
 title: Carlos Del Real, Services, Portfolio, Posts and Learning
 email: carloshdelreal@gmail.com
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://carloshdelreal.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/portafolio" # the subpath of your site, e.g. /blog
+url: "https://carloshdelreal.github.io/portafolio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carloshdelreal
 github_username: carloshdelreal
 facebook_username: carloshdelreal
